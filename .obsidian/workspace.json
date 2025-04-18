@@ -11,14 +11,10 @@
             "id": "3ea1b9c6bb1e518d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Resources/Characters/PCharacters/CH.1_(placeholder).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CH.1_(placeholder)"
+              "title": "Leaflet Map"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#player",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,45 +141,45 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c644884cbcd4aa87",
+  "active": "3ea1b9c6bb1e518d",
   "lastOpenFiles": [
-    "D.M. stuff/Story/Main Story.md",
+    "D.M. stuff/Maps/Untitled.md",
+    "Player Resources/Map/Map_1.md",
+    "D.M. stuff/Maps",
     "Player Resources/Quests/Q.1_(placeholder).md",
-    "D.M. stuff/Rules.md",
+    "Player Resources/Sketches/SK.1_(placeholder).canvas",
+    "Player Resources/Bestiary.md",
+    "Player Resources/Diary.md",
     "Player Resources/Untitled.md",
-    "Player Resources/Calendar 1/u4 1.md",
-    "Player Resources/Calendar 1",
-    "Player Resources/Unlocked Characters.md",
+    "Player Resources/Characters/PCharacters/CH.4_(placeholder).md",
+    "Player Resources/Characters/PCharacters/CH.3_(placeholder).md",
+    "Player Resources/Characters/PCharacters/CH.2_(placeholder).md",
+    "Player Resources/Characters/PCharacters/CH.1_(placeholder).md",
     "Player Resources/Characters/NPC/NPC_(placeholder).md",
+    "Player Resources/Characters/Enemies/E-NPC_(placeholder).md",
+    "Player Resources/Calendar 1/Calendar.md",
+    "D.M. stuff/Calendar/D.M.Calendar.md",
+    "D.M. stuff/PCharacters/D.M.CH.2_(placeholder).md",
     "D.M. stuff/PCharacters/D.M.CH.4_(placeholder).md",
     "D.M. stuff/PCharacters/D.M.CH.3_(placeholder).md",
-    "D.M. stuff/PCharacters/D.M.CH.2_(placeholder).md",
     "D.M. stuff/PCharacters/D.M.CH.1_(placeholder).md",
-    "D.M. stuff/PCharacters",
-    "D.M. stuff/Untitled",
-    "Player Resources/Bestiary.md",
-    "Player Resources/Characters/PCharacters/CH.4_(placeholder).md",
-    "Player Resources",
-    "Player Resources/Sketches/SK.1_(placeholder).canvas",
-    "D.M. stuff/File vault",
-    "D.M. stuff/D.M. Stuff.md",
+    "D.M. stuff/Story/Main Story.md",
     "D.M. stuff/D.M. To-Do List.md",
-    "Player Resources/Characters/PCharacters/CH.2_(placeholder).md",
+    "D.M. stuff/D.M. Stuff.md",
+    "D.M. stuff/D.M. Diary.md",
+    "Rules.md",
+    "D.M. stuff/File vault/p.p.md",
+    "Player Resources/Calendar 1",
+    "Player Resources/Unlocked Characters.md",
+    "D.M. stuff/PCharacters",
+    "Player Resources",
+    "D.M. stuff/File vault",
     "Pasted image 20250418223341.jpg",
     "Encounters/u.1.md",
-    "Sketches/Sketch_1.excalidraw.md",
-    "Player Resources/Diary.md",
-    "Sketches/Sketch 1.md",
-    "Player Resources/Map/u2.md",
-    "D.M. stuff/D.M. Diary.md",
-    "Player Resources/Characters/Enemies/E-NPC_(placeholder).md",
     "Diary",
     "Encounters",
-    "Player Resources/Characters/PCharacters/CH.3_(placeholder).md",
-    "Player Resources/Characters/PCharacters/CH.1_(placeholder).md",
     "D.M. stuff",
     "D.M. stuff/Story",
-    "Rules/u4 1.md",
     "Rules"
   ]
 }
