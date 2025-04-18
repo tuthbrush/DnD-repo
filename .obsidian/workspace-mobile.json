@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Main Characters/Ch_1.md",
+                "file": "Calendar/u4 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch_1"
+              "title": "u4 1"
             }
           }
         ]
@@ -181,10 +181,21 @@
   },
   "active": "86e53a767b6b8920",
   "lastOpenFiles": [
+    "Story/u4 1.md",
+    "Calendar/u4 1.md",
+    "Rules/u4 1.md",
+    "Quests/u4 1.md",
+    "u4.md",
+    "Characters/NPC/u3.md",
+    "Map/u2.md",
+    "Characters/Enemies/u1.md",
+    "Characters/Main Characters/Ch_1.md",
+    "/Characters/Main Characters/Ch_1.md",
+    "/Characters/Main Characters",
+    "/Characters",
     "Calendar.md",
     "Calendar",
     "Quests",
-    "Characters/Main Characters/Ch_1.md",
     "Rules",
     "Story",
     "Sketches/Sketch 1.md",
@@ -192,8 +203,6 @@
     "Characters/Main Characters",
     "Characters/NPC",
     "Untitled 1",
-    "Map",
-    "NPC",
     "Characters/test n1.md",
     "test n1.md",
     "conflict-files-obsidian-git.md",
