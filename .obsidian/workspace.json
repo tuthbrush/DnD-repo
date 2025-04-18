@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D.M. stuff/D.M. stuff.md",
+                "file": "Characters/Main Characters/CH.4_(placeholder).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D.M. stuff"
+              "title": "CH.4_(placeholder)"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -212,17 +212,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c644884cbcd4aa87",
+  "active": "6a61c0dae52495a8",
   "lastOpenFiles": [
+    "Characters/Main Characters/CH.3_(placeholder).md",
+    "Characters/Main Characters/CH.2_(placeholder).md",
+    "Characters/Main Characters/CH.1_(placeholder).md",
+    "Characters/Main Characters/CH.4_(placeholder).md",
+    "Quests/Q.1_(placeholder).md",
+    "D.M. stuff/D.M. stuff.md",
     "D.M. stuff",
     "Untitled.md",
-    "D.M. stuff/D.M. stuff.md",
-    "Characters/Main Characters/Ch_1.md",
     "Story/u4 1.md",
     "Story",
     "Rules/u4 1.md",
     "Rules",
-    "Quests/u4 1.md",
     "Quests",
     "Map/u2.md",
     "Map",
@@ -236,7 +239,6 @@
     "Sketches/Sketch 1.md",
     "Sketches",
     "Characters/Main Characters",
-    "Characters",
     "dnd/test n1.md",
     "conflict-files-obsidian-git.md",
     "dnd/testo.md",
