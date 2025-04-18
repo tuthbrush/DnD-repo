@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5b99c9e499406ce1",
+        "id": "09276b248af72855",
         "type": "tabs",
         "children": [
           {
-            "id": "014fa2a51d616b06",
+            "id": "86e53a767b6b8920",
             "type": "leaf",
             "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Leaflet Map"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-18 02.46.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-18 02.46.00.excalidraw"
             }
           }
         ]
@@ -175,9 +177,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "014fa2a51d616b06",
+  "active": "86e53a767b6b8920",
   "lastOpenFiles": [
     "test n1.md",
+    "Excalidraw/Drawing 2025-04-18 02.46.00.excalidraw.md",
+    "/Excalidraw/Drawing 2025-04-18 02.46.00.excalidraw.md",
+    "Excalidraw",
+    "/Excalidraw",
     "conflict-files-obsidian-git.md",
     "dnd/testo.md"
   ]
