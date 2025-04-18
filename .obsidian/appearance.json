@@ -1,5 +1,6 @@
 {
-  "cssTheme": "",
-  "interfaceFontFamily": "Droid Sans Mono",
-  "textFontFamily": "Droid Sans Mono"
+  "cssTheme": "Solarized",
+  "interfaceFontFamily": "American Typewriter",
+  "textFontFamily": "Droid Sans Mono",
+  "accentColor": "#00ffff"
 }
