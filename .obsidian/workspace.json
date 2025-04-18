@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules.md",
+                "file": "Sketches/Sketch 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rules"
+              "title": "Sketch 1"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,11 +190,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 438.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,8 +214,8 @@
   },
   "active": "c644884cbcd4aa87",
   "lastOpenFiles": [
-    "Encounters/u.1.md",
     "Rules.md",
+    "Encounters/u.1.md",
     "Map/u2.md",
     "Diary.md",
     "D.M. stuff/D.M. Diary.md",
