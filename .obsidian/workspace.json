@@ -143,13 +143,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "7b35d606d6167c2e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 332.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2991135594f3553",
+  "active": "70466cb16f9d0e07",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "dnd/testo.md",
