@@ -13,3 +13,4 @@ https://www.forgotten-adventures.net/
 https://inkarnate.com/
 https://donjon.bin.sh/fantasy/world/
 https://cartographyassets.com/
+https://2minutetabletop.com/?s=map&tcb_sf_post_type%5B%5D=post&tcb_sf_post_type%5B%5D=page&tcb_sf_post_type%5B%5D=product&tcb_sf_post_type%5B%5D=faq
