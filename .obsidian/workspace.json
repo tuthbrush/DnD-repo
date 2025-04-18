@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D.M. stuff/Main Characters 1/D.M.CH.4_(placeholder).md",
+                "file": "D.M. stuff/Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D.M.CH.4_(placeholder)"
+              "title": "Rules"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D.M. stuff/Main Characters 1/D.M.CH.4_(placeholder).md",
+                "file": "D.M. stuff/Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for D.M.CH.4_(placeholder)"
+              "title": "Backlinks for Rules"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D.M. stuff/Main Characters 1/D.M.CH.4_(placeholder).md",
+                "file": "D.M. stuff/Rules.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from D.M.CH.4_(placeholder)"
+              "title": "Outgoing links from Rules"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D.M. stuff/Main Characters 1/D.M.CH.4_(placeholder).md",
+                "file": "D.M. stuff/Rules.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of D.M.CH.4_(placeholder)"
+              "title": "Outline of Rules"
             }
           },
           {
@@ -205,43 +205,43 @@
   },
   "active": "c356724b526f8f47",
   "lastOpenFiles": [
-    "D.M. stuff/Main Characters 1/D.M.CH.3_(placeholder).md",
-    "D.M. stuff/Main Characters 1/D.M.CH.2_(placeholder).md",
-    "D.M. stuff/Main Characters 1/D.M.CH.1_(placeholder).md",
-    "D.M. stuff/Main Characters 1/D.M.CH.4_(placeholder).md",
     "Player Resources/Untitled.md",
-    "D.M. stuff/Main Characters 1",
+    "Player Resources/Calendar 1/u4 1.md",
+    "Player Resources/Calendar 1",
+    "Player Resources/Unlocked Characters.md",
+    "Player Resources/Characters/NPC/NPC_(placeholder).md",
+    "D.M. stuff/PCharacters/D.M.CH.4_(placeholder).md",
+    "D.M. stuff/PCharacters/D.M.CH.3_(placeholder).md",
+    "D.M. stuff/PCharacters/D.M.CH.2_(placeholder).md",
+    "D.M. stuff/PCharacters/D.M.CH.1_(placeholder).md",
+    "D.M. stuff/PCharacters",
     "D.M. stuff/Untitled",
     "Player Resources/Bestiary.md",
-    "Player Resources/Unlocked Characters.md",
-    "Story/Main Story.md",
-    "Characters/Main Characters/CH.4_(placeholder).md",
+    "D.M. stuff/Story/Main Story.md",
+    "Player Resources/Characters/PCharacters/CH.4_(placeholder).md",
     "Player Resources",
-    "Sketches/SK.1_(placeholder).canvas",
+    "Player Resources/Sketches/SK.1_(placeholder).canvas",
     "D.M. stuff/File vault",
     "D.M. stuff/D.M. Stuff.md",
     "D.M. stuff/D.M. To-Do List.md",
-    "Characters/Main Characters/CH.2_(placeholder).md",
+    "Player Resources/Characters/PCharacters/CH.2_(placeholder).md",
     "Pasted image 20250418223341.jpg",
     "Encounters/u.1.md",
     "Sketches/Sketch_1.excalidraw.md",
-    "Rules.md",
-    "Diary.md",
+    "D.M. stuff/Rules.md",
+    "Player Resources/Diary.md",
     "Sketches/Sketch 1.md",
-    "Map/u2.md",
+    "Player Resources/Map/u2.md",
     "D.M. stuff/D.M. Diary.md",
-    "Characters/NPC/NPC_(placeholder).md",
-    "Characters/Enemies/E-NPC_(placeholder).md",
+    "Player Resources/Characters/Enemies/E-NPC_(placeholder).md",
     "Diary",
     "Encounters",
-    "Characters/Main Characters/CH.3_(placeholder).md",
-    "Characters/Main Characters/CH.1_(placeholder).md",
+    "Player Resources/Characters/PCharacters/CH.3_(placeholder).md",
+    "Player Resources/Characters/PCharacters/CH.1_(placeholder).md",
     "Player Resources/Quests/Q.1_(placeholder).md",
     "D.M. stuff",
-    "Story",
+    "D.M. stuff/Story",
     "Rules/u4 1.md",
-    "Rules",
-    "Player Resources/Quests",
-    "Calendar/u4 1.md"
+    "Rules"
   ]
 }
