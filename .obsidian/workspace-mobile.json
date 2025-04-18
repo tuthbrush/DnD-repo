@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "testo"
             }
-          },
-          {
-            "id": "6007bd4f8ff4693f",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "aFile": "dnd/test.md",
-                "bFile": "dnd/test.md",
-                "aRef": ""
-              },
-              "icon": "git-pull-request",
-              "title": "Diff: test"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "dnd/testo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,6 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "dnd/testo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -144,6 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "dnd/testo.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -176,9 +164,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6007bd4f8ff4693f",
+  "active": "014fa2a51d616b06",
   "lastOpenFiles": [
-    "dnd/testo.md",
-    "conflict-files-obsidian-git.md"
+    "conflict-files-obsidian-git.md",
+    "dnd/testo.md"
   ]
 }
