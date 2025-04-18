@@ -1,4 +1,12 @@
 {
   "ITS@@select": "wotc-beyond",
-  "ITS@@radius-s": 2
+  "ITS@@radius-s": 2,
+  "a-unique-id@@the-color": "#D00D0D",
+  "a-unique-id@@the-background-color": "#222222",
+  "ITS@@note@@light": "#F8FBFF",
+  "ITS@@note@@dark": "#E3DAB1",
+  "ITS@@outer-bar@@dark": "#E3DAB1",
+  "ITS@@text@@dark": "#5B6065",
+  "ITS@@nav-item-color@@dark": "#5E6371",
+  "ITS@@i-at@@dark": "#000000"
 }
