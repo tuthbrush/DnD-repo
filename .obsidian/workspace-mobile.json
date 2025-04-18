@@ -11,14 +11,10 @@
             "id": "014fa2a51d616b06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test n1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test n1"
+              "title": "Leaflet Map"
             }
           }
         ]
@@ -149,23 +145,39 @@
           "icon": "git-pull-request",
           "title": "Source Control"
         }
+      },
+      {
+        "id": "021e2d7b810ca6d1",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
+          "icon": "initiative-tracker",
+          "title": "Initiative Tracker"
+        }
       }
     ],
     "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "014fa2a51d616b06",
   "lastOpenFiles": [
+    "test n1.md",
     "conflict-files-obsidian-git.md",
     "dnd/testo.md"
   ]
