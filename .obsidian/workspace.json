@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Resources/Diary.md",
+                "file": "D.M. stuff/D.M. Stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diary"
+              "title": "D.M. Stuff"
             }
           }
         ],
@@ -191,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,8 +215,8 @@
   },
   "active": "b21a2edec71885de",
   "lastOpenFiles": [
-    "Player Resources/2025-04-18.md",
     "Player Resources/Diary.md",
+    "Player Resources/2025-04-18.md",
     "D.M. stuff/Obi Help/Untitled.md",
     "D.M. stuff/Obi Help",
     "D.M. stuff/Maps/Untitled.md",

@@ -1,15 +1,19 @@
 #DM
 ### UTILS
 
+https://github.com/watabou check the whole prof
+https://watabou.itch.io/compass-rose-generator
 https://donjon.bin.sh/
 https://www.maptiler.com/
 
 ### PROCGEN MAPS
 
-###### the whole fucking world: https://donjon.bin.sh/fantasy/world/
+###### the whole fucking world
+https://donjon.bin.sh/fantasy/world/
+https://azgaar.github.io/Fantasy-Map-Generator/
 ##### terrain
 https://watabou.github.io/realm.html
-https://azgaar.github.io/Fantasy-Map-Generator/
+
 ##### city
 https://watabou.itch.io/medieval-fantasy-city-generator
 ##### village
