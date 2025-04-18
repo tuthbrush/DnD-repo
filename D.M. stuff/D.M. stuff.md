@@ -18,7 +18,6 @@ https://donjon.bin.sh/fantasy/world/
 https://azgaar.github.io/Fantasy-Map-Generator/
 ##### terrain
 https://watabou.github.io/realm.html
-
 ##### city
 https://watabou.itch.io/medieval-fantasy-city-generator
 ##### village
