@@ -1,12 +1,15 @@
 #DM
 ### UTILS
 
-https://watabou.github.io/faq.html
-https://watabou.itch.io/
+https://github.com/Azgaar?tab=repositories another like watabou utils
+https://github.com/Azgaar/deorum
+https://github.com/Azgaar/Armoria badges
+https://watabou.github.io
+https://watabou.itch.io/ whole account is good
 https://github.com/watabou check the whole prof
-https://watabou.itch.io/compass-rose-generator
-https://donjon.bin.sh/
-https://www.maptiler.com/
+https://watabou.itch.io/compass-rose-generator rosa dei venti
+https://donjon.bin.sh/ utility for ttrpg
+https://www.maptiler.com/ map tiler
 
 ### PROCGEN MAPS
 
