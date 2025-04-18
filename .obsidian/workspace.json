@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D.M. stuff.md",
+                "file": "D.M. stuff/D.M. stuff.md",
                 "mode": "source",
                 "source": false
               },
@@ -214,8 +214,10 @@
   },
   "active": "c644884cbcd4aa87",
   "lastOpenFiles": [
+    "D.M. stuff",
+    "Untitled.md",
+    "D.M. stuff/D.M. stuff.md",
     "Characters/Main Characters/Ch_1.md",
-    "D.M. stuff.md",
     "Story/u4 1.md",
     "Story",
     "Rules/u4 1.md",
