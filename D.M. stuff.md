@@ -1,26 +1,15 @@
-https://watabou.itch.io/medieval-fantasy-city-generator
+
+### UTILS
+
+https://donjon.bin.sh/
 https://www.maptiler.com/
-----
 
-https://gdal.org/en/stable/programs/gdal2tiles.html
-https://github.com/commenthol/gdal2tiles-leaflet
-----
-https://azgaar.github.io/Fantasy-Map-Generator/
-https://probabletrain.itch.io/dungeon-scrawl
-https://cartographyassets.com/
-r/fantasymap
-https://dysonlogos.blog/maps/
-https://www.forgotten-adventures.net/
-https://inkarnate.com/
-https://donjon.bin.sh/fantasy/world/
-https://cartographyassets.com/
-https://2minutetabletop.com/?s=map&tcb_sf_post_type%5B%5D=post&tcb_sf_post_type%5B%5D=page&tcb_sf_post_type%5B%5D=product&tcb_sf_post_type%5B%5D=faq
+### PROCGEN MAPS
 
-
-# PROCGEN MAPS
-
+###### the whole fucking world: https://donjon.bin.sh/fantasy/world/
 ##### terrain
 https://watabou.github.io/realm.html
+https://azgaar.github.io/Fantasy-Map-Generator/
 ##### city
 https://watabou.itch.io/medieval-fantasy-city-generator
 ##### village
@@ -33,5 +22,11 @@ https://watabou.github.io/cave.html
 ##### insides
 https://watabou.github.io/dwelling.html
 
-# NON-PROCGENS MAPS
+### NON-PROCGENS MAPS
 
+https://cartographyassets.com/
+https://www.reddit.com/r/FantasyMaps/
+###### https://dysonlogos.blog/maps/
+https://www.forgotten-adventures.net/
+https://inkarnate.com/
+https://2minutetabletop.com/?s=map&tcb_sf_post_type%5B%5D=post&tcb_sf_post_type%5B%5D=page&tcb_sf_post_type%5B%5D=product&tcb_sf_post_type%5B%5D=faq
