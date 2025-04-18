@@ -7,4 +7,7 @@ https://github.com/commenthol/gdal2tiles-leaflet
 https://azgaar.github.io/Fantasy-Map-Generator/
 https://probabletrain.itch.io/dungeon-scrawl
 https://cartographyassets.com/
-r/fantasymap 
+r/fantasymap
+https://dysonlogos.blog/maps/
+https://www.forgotten-adventures.net/
+https://inkarnate.com/
