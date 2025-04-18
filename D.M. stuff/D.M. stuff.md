@@ -1,6 +1,8 @@
 #DM
 ### UTILS
 
+https://watabou.github.io/faq.html
+https://watabou.itch.io/
 https://github.com/watabou check the whole prof
 https://watabou.itch.io/compass-rose-generator
 https://donjon.bin.sh/
