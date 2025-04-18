@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Main Characters/CH1.md",
+                "file": "Calendar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH1"
+              "title": "Calendar"
             }
           }
         ]
@@ -179,15 +179,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6f54f57b783aec57",
+  "active": "86e53a767b6b8920",
   "lastOpenFiles": [
-    "Untitled",
+    "Characters/Main Characters/CH1.md",
+    "Calendar.md",
+    "Rules",
     "Story",
     "Sketches/Sketch 1.md",
     "Characters/Enemies",
     "Characters/Main Characters",
     "Characters/NPC",
-    "Characters/Main Characters/CH1.md",
     "Untitled 1",
     "Map",
     "NPC",
