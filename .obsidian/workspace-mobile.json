@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sketches/Sketch 1.md",
+                "file": "Characters/Main Characters/CH1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sketch 1"
+              "title": "CH1"
             }
           }
         ]
@@ -179,13 +179,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "86e53a767b6b8920",
+  "active": "6f54f57b783aec57",
   "lastOpenFiles": [
+    "Untitled",
+    "Story",
     "Sketches/Sketch 1.md",
     "Characters/Enemies",
     "Characters/Main Characters",
     "Characters/NPC",
-    "CH1.md",
+    "Characters/Main Characters/CH1.md",
     "Untitled 1",
     "Map",
     "NPC",
