@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "64435d30a899af81",
+        "id": "1b961b38637adc09",
         "type": "tabs",
         "children": [
           {
-            "id": "c356724b526f8f47",
+            "id": "3ea1b9c6bb1e518d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D.M. stuff/Rules.md",
+                "file": "Player Resources/Quests/Q.1_(placeholder).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rules"
+              "title": "Q.1_(placeholder)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D.M. stuff/Rules.md",
+                "file": "Player Resources/Quests/Q.1_(placeholder).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rules"
+              "title": "Backlinks for Q.1_(placeholder)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D.M. stuff/Rules.md",
+                "file": "Player Resources/Quests/Q.1_(placeholder).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rules"
+              "title": "Outgoing links from Q.1_(placeholder)"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D.M. stuff/Rules.md",
+                "file": "Player Resources/Quests/Q.1_(placeholder).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rules"
+              "title": "Outline of Q.1_(placeholder)"
             }
           },
           {
@@ -179,9 +179,18 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "88d40f8b5bc4def9",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -203,8 +212,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c356724b526f8f47",
+  "active": "3ea1b9c6bb1e518d",
   "lastOpenFiles": [
+    "D.M. stuff/Rules.md",
     "Player Resources/Untitled.md",
     "Player Resources/Calendar 1/u4 1.md",
     "Player Resources/Calendar 1",
@@ -228,7 +238,6 @@
     "Pasted image 20250418223341.jpg",
     "Encounters/u.1.md",
     "Sketches/Sketch_1.excalidraw.md",
-    "D.M. stuff/Rules.md",
     "Player Resources/Diary.md",
     "Sketches/Sketch 1.md",
     "Player Resources/Map/u2.md",
