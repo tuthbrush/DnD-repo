@@ -11,14 +11,10 @@
             "id": "014fa2a51d616b06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dnd/testo.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "testo"
+              "title": "New tab"
             }
           }
         ]
