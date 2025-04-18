@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Solarized",
-  "interfaceFontFamily": "American Typewriter",
-  "textFontFamily": "Droid Sans Mono",
+  "cssTheme": "Wasp",
+  "interfaceFontFamily": "Monaco",
+  "textFontFamily": "Source Code Pro",
   "accentColor": "#00ffff"
 }

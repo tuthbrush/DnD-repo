@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Main Characters/CH1.md",
+                "file": "Characters/Main Characters/Ch_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH1"
+              "title": "Ch_1"
             }
           }
         ]
@@ -36,7 +36,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byCreatedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -179,12 +179,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "86e53a767b6b8920",
+  "active": "6f54f57b783aec57",
   "lastOpenFiles": [
     "Calendar.md",
     "Calendar",
     "Quests",
-    "Characters/Main Characters/CH1.md",
+    "Characters/Main Characters/Ch_1.md",
     "Rules",
     "Story",
     "Sketches/Sketch 1.md",
