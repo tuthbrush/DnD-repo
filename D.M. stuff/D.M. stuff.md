@@ -10,6 +10,10 @@ https://github.com/watabou check the whole prof
 https://watabou.itch.io/compass-rose-generator rosa dei venti
 https://donjon.bin.sh/ utility for ttrpg
 https://www.maptiler.com/ map tiler
+https://arkimedz.itch.io/starmap star system
+https://gogodinosaur.itch.io/landscape-generator landscape
+
+
 
 ### PROCGEN MAPS
 
@@ -34,6 +38,9 @@ https://watabou.github.io/dwelling.html
 
 ### other
 https://watabou.itch.io/neighbourhood neighbourhood
+
+
+
 
 ### NON-PROCGENS MAPS
 
