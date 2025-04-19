@@ -12,7 +12,7 @@ https://donjon.bin.sh/ utility for ttrpg
 https://www.maptiler.com/ map tiler
 https://arkimedz.itch.io/starmap star system
 https://gogodinosaur.itch.io/landscape-generator landscape
-
+https://donjon.bin.sh/fantasy/inn/ menu locanda
 
 
 ### PROCGEN MAPS
