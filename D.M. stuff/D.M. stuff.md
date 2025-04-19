@@ -22,6 +22,7 @@ https://donjon.bin.sh/fantasy/world/
 https://azgaar.github.io/Fantasy-Map-Generator/
 ##### terrain
 https://watabou.github.io/realm.html
+https://watabou.itch.io/perilous-shores
 ##### city
 https://watabou.itch.io/medieval-fantasy-city-generator
 https://probabletrain.itch.io/city-generator
@@ -31,6 +32,7 @@ https://delca.itch.io/town
 https://watabou.github.io/village.html
 ##### caves
 https://watabou.github.io/cave.html
+https://watabou.itch.io/cave-generator
 ##### dungeon
 https://probabletrain.itch.io/dungeon-scrawl
 https://watabou.github.io/dungeon.html
