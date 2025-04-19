@@ -169,9 +169,19 @@
           "icon": "CALENDARIUM",
           "title": "Calendarium"
         }
+      },
+      {
+        "id": "ea67445ddcd3d614",
+        "type": "leaf",
+        "state": {
+          "type": "fantasy-statblocks-creature-pane",
+          "state": {},
+          "icon": "skull",
+          "title": "Combatant"
+        }
       }
     ],
-    "currentTab": 5
+    "currentTab": 6
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,6 +200,13 @@
   },
   "active": "f970f148ec6df419",
   "lastOpenFiles": [
+    "D.M. stuff/Maps/world.md",
+    "/D.M. stuff/D.M. stuff.md",
+    "/D.M. stuff/Maps/world.md",
+    "/D.M. stuff/Maps",
+    "/D.M. stuff",
+    "Player Resources/Sketches/SK.1_(placeholder).canvas",
+    "D.M. stuff/Story/Main Story.md",
     "D.M. stuff/Obi Help/Untitled.md",
     "D.M. stuff/Characters 1/PCharacters/CH.4_(placeholder).md",
     "D.M. stuff/Characters 1/PCharacters/CH.3_(placeholder).md",
@@ -207,7 +224,6 @@
     "Rules.md",
     "D.M. stuff/D.M. stuff.md",
     "D.M. stuff/D.M. To-Do List.md",
-    "Player Resources/Sketches/SK.1_(placeholder).canvas",
     "Player Resources/Quests/Q.1_(placeholder).md",
     "Player Resources/Map/Map_1.md",
     "Player Resources/Diary.md",
@@ -217,16 +233,10 @@
     "Player Resources/Characters/PCharacters/CH.1_(placeholder).md",
     "Player Resources/Characters/NPC/NPC_(placeholder).md",
     "Player Resources/Characters/Enemies/E-NPC_(placeholder).md",
-    "Player Resources/Calendar 1/Calendar.md",
-    "Player Resources/Bestiary.md",
-    "D.M. stuff/Story/Main Story.md",
-    "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.4_(placeholder).md",
     "/Player Resources/Sketches/SK.1_(placeholder).canvas",
     "Player Resources/Characters/PCharacters",
     "Player Resources/Characters/NPC",
     "Player Resources/Characters/Enemies",
-    "Player Resources/Sketches",
-    "Player Resources/Quests",
-    "Player Resources/Map"
+    "Player Resources/Sketches"
   ]
 }
