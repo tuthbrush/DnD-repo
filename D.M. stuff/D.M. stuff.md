@@ -26,6 +26,7 @@ https://watabou.github.io/realm.html
 https://watabou.itch.io/medieval-fantasy-city-generator
 https://probabletrain.itch.io/city-generator
 https://watabou.itch.io/toy-town
+https://delca.itch.io/town
 ##### village
 https://watabou.github.io/village.html
 ##### caves
