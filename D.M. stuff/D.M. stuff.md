@@ -20,6 +20,8 @@ https://azgaar.github.io/Fantasy-Map-Generator/
 https://watabou.github.io/realm.html
 ##### city
 https://watabou.itch.io/medieval-fantasy-city-generator
+https://probabletrain.itch.io/city-generator
+https://watabou.itch.io/toy-town
 ##### village
 https://watabou.github.io/village.html
 ##### caves
@@ -29,6 +31,9 @@ https://probabletrain.itch.io/dungeon-scrawl
 https://watabou.github.io/dungeon.html
 ##### insides
 https://watabou.github.io/dwelling.html
+
+### other
+https://watabou.itch.io/neighbourhood neighbourhood
 
 ### NON-PROCGENS MAPS
 
