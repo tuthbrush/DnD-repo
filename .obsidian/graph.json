@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#player",
@@ -40,5 +40,5 @@
   "linkStrength": 0.866424116424116,
   "linkDistance": 269,
   "scale": 1,
-  "close": false
+  "close": true
 }
