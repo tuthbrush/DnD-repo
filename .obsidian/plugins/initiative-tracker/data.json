@@ -112,7 +112,7 @@
   "preferStatblockLink": false,
   "initiative": "1d20 + %mod%",
   "modifier": null,
-  "sync": false,
+  "sync": true,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
@@ -274,11 +274,11 @@
   "encounters": {},
   "warnedAboutImports": false,
   "openState": {
-    "battle": true,
-    "party": true,
-    "status": true,
+    "battle": false,
+    "party": false,
+    "status": false,
     "plugin": true,
-    "player": true,
+    "player": false,
     "builder": true
   },
   "hpOverflow": "ignore",

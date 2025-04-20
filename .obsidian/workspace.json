@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D.M. stuff/D.M. stuff.md",
+                "file": "D.M. stuff/D.M. Diary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D.M. stuff"
+              "title": "D.M. Diary"
             }
           }
         ],
@@ -195,26 +195,11 @@
             }
           }
         ]
-      },
-      {
-        "id": "c4ecf5f61f4dba5d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bfe336ff414f8f0d",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 459.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,13 +218,13 @@
   },
   "active": "3f06433c8b981b46",
   "lastOpenFiles": [
-    "Player Resources/Sketches/SK.1_(placeholder).canvas",
+    "D.M. stuff/D.M. To-Do List.md",
     "D.M. stuff/D.M. stuff.md",
+    "Player Resources/Sketches/SK.1_(placeholder).canvas",
     "D.M. stuff/Story/Main Story.md",
     "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.4_(placeholder).md",
     "D.M. stuff/D.M. Stuff.md",
     "D.M. stuff/D.M. Diary.md",
-    "D.M. stuff/D.M. To-Do List.md",
     "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.3_(placeholder).md",
     "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.2_(placeholder).md",
     "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.1_(placeholder).md",
