@@ -4,24 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "1b961b38637adc09",
+        "id": "98c5dd2fbe9b821a",
         "type": "tabs",
         "children": [
           {
-            "id": "b21a2edec71885de",
+            "id": "37abf8503e43d9df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D.M. stuff/Story/Main Story.md",
+                "file": "D.M. stuff/D.M. stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Story"
+              "title": "D.M. stuff"
+            }
+          },
+          {
+            "id": "3f06433c8b981b46",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Player Resources/Sketches/SK.1_(placeholder).canvas",
+                "viewState": {
+                  "x": 7.919561422591045,
+                  "y": -7.919615370557096,
+                  "zoom": 0.5
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "SK.1_(placeholder)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,12 +197,27 @@
               "title": "Obsidian help"
             }
           }
-        ],
-        "currentTab": 6
+        ]
+      },
+      {
+        "id": "c4ecf5f61f4dba5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfe336ff414f8f0d",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 229.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,14 +234,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c644884cbcd4aa87",
+  "active": "3f06433c8b981b46",
   "lastOpenFiles": [
+    "D.M. stuff/D.M. stuff.md",
+    "D.M. stuff/Story/Main Story.md",
     "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.4_(placeholder).md",
     "D.M. stuff/D.M. Stuff.md",
-    "D.M. stuff/D.M. stuff.md",
     "D.M. stuff/D.M. Diary.md",
     "D.M. stuff/D.M. To-Do List.md",
-    "D.M. stuff/Story/Main Story.md",
     "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.3_(placeholder).md",
     "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.2_(placeholder).md",
     "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.1_(placeholder).md",
