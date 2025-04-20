@@ -60,3 +60,6 @@ https://2minutetabletop.com/?s=map&tcb_sf_post_type%5B%5D=post&tcb_sf_post_type%
 ### PREPPING
 
 https://slyflourish.com/lazy_gm_resource_document.html
+https://www.youtube.com/@SlyFlourish
+
+- [ ]
