@@ -25,17 +25,14 @@
             "id": "3f06433c8b981b46",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Player Resources/Sketches/SK.1_(placeholder).canvas",
-                "viewState": {
-                  "x": 7.919561422591045,
-                  "y": -7.919615370557096,
-                  "zoom": 0.5
-                }
+                "file": "D.M. stuff/D.M. stuff.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "SK.1_(placeholder)"
+              "icon": "lucide-file",
+              "title": "D.M. stuff"
             }
           }
         ],
@@ -236,6 +233,7 @@
   },
   "active": "3f06433c8b981b46",
   "lastOpenFiles": [
+    "Player Resources/Sketches/SK.1_(placeholder).canvas",
     "D.M. stuff/D.M. stuff.md",
     "D.M. stuff/Story/Main Story.md",
     "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.4_(placeholder).md",
@@ -264,7 +262,6 @@
     "Player Resources/Map/Map_1.md",
     "D.M. stuff/Maps",
     "Player Resources/Quests/Q.1_(placeholder).md",
-    "Player Resources/Sketches/SK.1_(placeholder).canvas",
     "Player Resources/Bestiary.md",
     "Player Resources/Untitled.md",
     "Player Resources/Characters/PCharacters/CH.4_(placeholder).md",
@@ -272,7 +269,6 @@
     "Player Resources/Characters/PCharacters/CH.2_(placeholder).md",
     "Player Resources/Characters/PCharacters/CH.1_(placeholder).md",
     "Player Resources/Characters/NPC/NPC_(placeholder).md",
-    "Player Resources/Characters/Enemies/E-NPC_(placeholder).md",
     "Pasted image 20250418223341.jpg"
   ]
 }

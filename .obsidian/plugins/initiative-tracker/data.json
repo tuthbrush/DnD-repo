@@ -271,53 +271,7 @@
   "autoStatus": true,
   "beginnerTips": true,
   "displayDifficulty": true,
-  "encounters": {
-    "encounter 1": {
-      "creatures": [
-        {
-          "initiative": 0,
-          "static": false,
-          "modifier": 0,
-          "hp": 0,
-          "currentMaxHP": 0,
-          "id": "ID_2b290b3b8a0b",
-          "currentHP": 0,
-          "tempHP": 0,
-          "status": [],
-          "enabled": true,
-          "level": 1,
-          "hidden": false,
-          "friendly": false
-        },
-        {
-          "name": "Giant Rat",
-          "initiative": 0,
-          "static": false,
-          "modifier": 2,
-          "hp": 7,
-          "currentMaxHP": 7,
-          "cr": "1/8",
-          "ac": 12,
-          "currentAC": 12,
-          "id": "ID_a9c93b29ea29",
-          "currentHP": 7,
-          "tempHP": 0,
-          "status": [],
-          "enabled": true,
-          "hidden": false,
-          "friendly": false,
-          "hit_dice": "2d6"
-        }
-      ],
-      "state": false,
-      "name": "encounter 1",
-      "round": 1,
-      "roll": true,
-      "rollHP": false,
-      "logFile": null,
-      "timestamp": 1745008762799
-    }
-  },
+  "encounters": {},
   "warnedAboutImports": false,
   "openState": {
     "battle": true,
@@ -329,7 +283,7 @@
   },
   "hpOverflow": "ignore",
   "additiveTemp": false,
-  "rpgSystem": "dnd5e",
+  "rpgSystem": "dnd5e-lazygm",
   "logging": false,
   "logFolder": "/",
   "useLegacy": false,
