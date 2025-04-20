@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ea1b9c6bb1e518d",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Leaflet Map"
-            }
-          },
-          {
             "id": "b21a2edec71885de",
             "type": "leaf",
             "state": {
@@ -31,8 +21,7 @@
               "title": "D.M. Stuff"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,11 +180,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,16 +197,14 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "calendarium:Open Calendarium": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
   "active": "b21a2edec71885de",
   "lastOpenFiles": [
-    "D.M. stuff/D.M. To-Do List.md",
-    "D.M. stuff/D.M. Stuff.md",
     "D.M. stuff/D.M. Diary.md",
+    "D.M. stuff/D.M. Stuff.md",
+    "D.M. stuff/D.M. To-Do List.md",
     "D.M. stuff/Story/Main Story.md",
     "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.4_(placeholder).md",
     "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.3_(placeholder).md",
