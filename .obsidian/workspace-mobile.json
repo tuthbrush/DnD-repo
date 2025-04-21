@@ -185,8 +185,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
