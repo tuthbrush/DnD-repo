@@ -193,13 +193,23 @@
               "icon": "lucide-info",
               "title": "Obsidian help"
             }
+          },
+          {
+            "id": "b7a8eebb2bb265ec",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 459.5,
-    "collapsed": true
+    "width": 459.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,10 +223,11 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "copilot:Open Copilot Chat": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3f06433c8b981b46",
+  "active": "b7a8eebb2bb265ec",
   "lastOpenFiles": [
     "D.M. stuff/D.M. To-Do List.md",
     "D.M. stuff/D.M. stuff.md",
