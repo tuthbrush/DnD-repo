@@ -179,9 +179,19 @@
           "icon": "skull",
           "title": "Combatant"
         }
+      },
+      {
+        "id": "aa0426d33b6dd4aa",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {},
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
       }
     ],
-    "currentTab": 6
+    "currentTab": 7
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,6 +211,7 @@
   "active": "f970f148ec6df419",
   "lastOpenFiles": [
     "Player Resources/Calendar/Calendar.md",
+    "D.M. stuff/D.M. stuff.md",
     "/Player Resources/Calendar/Calendar.md",
     "/Player Resources/Sketches/SK.1_(placeholder).canvas",
     "/Player Resources/Sketches",
@@ -232,7 +243,6 @@
     "D.M. stuff/File vault/p.p.md",
     "D.M. stuff/Calendar/D.M.Calendar.md",
     "Rules.md",
-    "D.M. stuff/D.M. stuff.md",
     "D.M. stuff/D.M. To-Do List.md",
     "Player Resources/Quests/Q.1_(placeholder).md",
     "Player Resources/Map/Map_1.md",
