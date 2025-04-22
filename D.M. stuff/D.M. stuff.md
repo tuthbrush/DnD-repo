@@ -23,7 +23,6 @@ https://donjon.bin.sh/fantasy/world/
 https://azgaar.github.io/Fantasy-Map-Generator/
 ##### terrain
 https://watabou.github.io/realm.html
-https://watabou.itch.io/perilous-shores
 ##### city
 https://watabou.itch.io/medieval-fantasy-city-generator
 https://probabletrain.itch.io/city-generator

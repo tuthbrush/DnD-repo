@@ -39,12 +39,14 @@
             "id": "fe04cdacd799aa58",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "D.M. stuff/D.M. stuff.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "D.M. stuff"
             }
           }
         ],
