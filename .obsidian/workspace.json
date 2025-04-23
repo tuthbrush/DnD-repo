@@ -207,19 +207,9 @@
               "icon": "lucide-info",
               "title": "Obsidian help"
             }
-          },
-          {
-            "id": "b7a8eebb2bb265ec",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",

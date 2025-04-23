@@ -15,7 +15,6 @@ https://arkimedz.itch.io/starmap star system
 https://gogodinosaur.itch.io/landscape-generator landscape
 https://donjon.bin.sh/fantasy/inn/ menu locanda
 
-
 ### PROCGEN MAPS
 
 ###### the whole fucking world
@@ -39,12 +38,8 @@ https://watabou.github.io/dungeon.html
 https://donjon.bin.sh/d20/dungeon/
 ##### insides
 https://watabou.github.io/dwelling.html
-
 #### other
 https://watabou.itch.io/neighbourhood neighbourhood
-
-
-
 
 ### NON-PROCGENS MAPS
 
