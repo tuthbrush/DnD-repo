@@ -1,6 +1,6 @@
 {
   "isPlusUser": false,
-  "plusLicenseKey": "",
+  "plusLicenseKey": "sk-d8de76b3ba6c45c0993b9ee950324b8d",
   "openAIApiKey": "",
   "openAIOrgId": "",
   "huggingfaceApiKey": "",
@@ -12,12 +12,12 @@
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
   "googleApiKey": "",
-  "openRouterAiApiKey": "",
+  "openRouterAiApiKey": "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",
   "mistralApiKey": "",
   "deepseekApiKey": "",
   "defaultChainType": "llm_chain",
   "defaultModelKey": "gpt-4o|openai",
-  "embeddingModelKey": "text-embedding-3-small|openai",
+  "embeddingModelKey": "embed-multilingual-light-v3.0|cohereai",
   "temperature": 0.3,
   "maxTokens": 1000,
   "contextTurns": 15,
@@ -94,7 +94,7 @@
     {
       "name": "o3-mini",
       "provider": "openai",
-      "enabled": false,
+      "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
         "reasoning"
@@ -103,7 +103,7 @@
     {
       "name": "claude-3-5-haiku-latest",
       "provider": "anthropic",
-      "enabled": false,
+      "enabled": true,
       "isBuiltIn": true
     },
     {
@@ -145,13 +145,13 @@
     {
       "name": "deepseek-chat",
       "provider": "deepseek",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true
     },
     {
       "name": "deepseek-reasoner",
       "provider": "deepseek",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
         "reasoning"

@@ -227,6 +227,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian-custom-frames:Open Obsidian help": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
