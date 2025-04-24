@@ -217,8 +217,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian-custom-frames:Open Obsidian help": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -229,7 +227,6 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "copilot:Open Copilot Chat": false,
       "calendarium:Open Calendarium": false
     }
   },
