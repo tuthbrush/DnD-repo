@@ -195,12 +195,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 459.5,
-    "collapsed": true
+    "width": 459.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,7 +216,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5f0f378f8ba92c64",
+  "active": "7b35d606d6167c2e",
   "lastOpenFiles": [
     "Untitled Diagram.drawio.svg",
     "Untitled Diagram.drawio",
