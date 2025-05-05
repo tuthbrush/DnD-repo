@@ -25,12 +25,17 @@
             "id": "5f0f378f8ba92c64",
             "type": "leaf",
             "state": {
-              "type": "diagram-edit",
+              "type": "canvas",
               "state": {
-                "file": "prof/Untitled Diagram.svg"
+                "file": "prof/Untitled.canvas",
+                "viewState": {
+                  "x": -110,
+                  "y": -105,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Untitled Diagram.svg"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -217,8 +222,8 @@
   },
   "active": "5f0f378f8ba92c64",
   "lastOpenFiles": [
-    "prof/Untitled.canvas",
     "prof/Untitled Diagram.svg",
+    "prof/Untitled.canvas",
     "prof/PROF.md",
     "Rules.md",
     "prof",
