@@ -5,4 +5,9 @@
 5 vpn
 6 firewall (opnsense, pfsense, openwrt)
 7 netdata, uptime kuma
-8 
+8 gpu?
+9 lista servizi sua?
+10 drives?
+
+
+8 come dovrei mettere
