@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "prof/PROF.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -216,17 +216,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7b35d606d6167c2e",
+  "active": "5f0f378f8ba92c64",
   "lastOpenFiles": [
-    "Untitled Diagram.drawio.svg",
-    "Untitled Diagram.drawio",
     "Untitled Diagram.drawio (1) 1.svg",
     "Untitled Diagram.drawio (1).svg",
+    "Untitled Diagram.drawio.svg",
+    "prof/PROF.md",
+    "Untitled Diagram.drawio",
     "D.M. stuff/D.M. To-Do List.md",
     "D.M. stuff/D.M. stuff.md",
     "prof/Untitled.canvas",
     "prof/Untitled Diagram.svg",
-    "prof/PROF.md",
     "Rules.md",
     "prof",
     "Player Resources/Map/Map_1.md",

@@ -10,4 +10,4 @@
 10 drives?
 11 disposizione ok?
 
-DISP 1![[Untitled Diagram.drawio (1) 1.svg]]DISP 2![[Untitled Diagram.drawio.svg]]
+DISP 1![[Untitled Diagram.drawio (1).svg]]DISP 2![[Untitled Diagram.drawio.svg]]
