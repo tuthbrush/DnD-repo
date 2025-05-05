@@ -39,14 +39,17 @@
             "id": "fe04cdacd799aa58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "D.M. stuff/D.M. stuff.md",
-                "mode": "preview",
-                "source": false
+                "file": "prof/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "D.M. stuff"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -232,10 +235,13 @@
   },
   "active": "fe04cdacd799aa58",
   "lastOpenFiles": [
+    "prof/PROF.md",
+    "prof/Untitled.canvas",
+    "prof",
+    "D.M. stuff/D.M. stuff.md",
     "Player Resources/Map/Map_1.md",
     "D.M. stuff/Story/Main Story.md",
     "D.M. stuff/D.M. To-Do List.md",
-    "D.M. stuff/D.M. stuff.md",
     "D.M. stuff/D.M. Diary.md",
     "Player Resources/Sketches/SK.1_(placeholder).canvas",
     "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.4_(placeholder).md",
@@ -259,7 +265,6 @@
     "Player Resources/2025-04-18.md",
     "D.M. stuff/Obi Help/Untitled.md",
     "D.M. stuff/Obi Help",
-    "D.M. stuff/Maps",
     "Player Resources/Quests/Q.1_(placeholder).md",
     "Player Resources/Bestiary.md",
     "Player Resources/Untitled.md",
@@ -267,7 +272,6 @@
     "Player Resources/Characters/PCharacters/CH.3_(placeholder).md",
     "Player Resources/Characters/PCharacters/CH.2_(placeholder).md",
     "Player Resources/Characters/PCharacters/CH.1_(placeholder).md",
-    "Player Resources/Characters/NPC/NPC_(placeholder).md",
     "Pasted image 20250418223341.jpg"
   ]
 }
