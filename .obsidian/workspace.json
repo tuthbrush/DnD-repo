@@ -25,14 +25,12 @@
             "id": "5f0f378f8ba92c64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diagram-edit",
               "state": {
-                "file": "prof/PROF.md",
-                "mode": "source",
-                "source": false
+                "file": "prof/Untitled Diagram.svg"
               },
               "icon": "lucide-file",
-              "title": "PROF"
+              "title": "Untitled Diagram.svg"
             }
           }
         ],
@@ -216,10 +214,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c644884cbcd4aa87",
+  "active": "5f0f378f8ba92c64",
   "lastOpenFiles": [
-    "prof/Untitled Diagram.svg",
     "prof/PROF.md",
+    "prof/Untitled Diagram.svg",
     "prof/Untitled.canvas",
     "Rules.md",
     "prof",
