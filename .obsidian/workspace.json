@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "prof/PROF.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -219,6 +219,9 @@
   },
   "active": "5f0f378f8ba92c64",
   "lastOpenFiles": [
+    "Untitled Diagram.drawio.svg",
+    "Untitled Diagram.drawio",
+    "Untitled Diagram.drawio (1) 1.svg",
     "Untitled Diagram.drawio (1).svg",
     "D.M. stuff/D.M. To-Do List.md",
     "D.M. stuff/D.M. stuff.md",
@@ -251,7 +254,6 @@
     "Player Resources/Diary.md",
     "Player Resources/2025-04-18.md",
     "D.M. stuff/Obi Help/Untitled.md",
-    "D.M. stuff/Obi Help",
     "Player Resources/Quests/Q.1_(placeholder).md",
     "Player Resources/Bestiary.md",
     "Player Resources/Untitled.md",
