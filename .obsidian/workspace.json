@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6e0e589d4161b8bc",
@@ -197,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459.5
+    "width": 459.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,9 +218,9 @@
   },
   "active": "5f0f378f8ba92c64",
   "lastOpenFiles": [
-    "prof/PROF.md",
-    "prof/Untitled Diagram.svg",
     "prof/Untitled.canvas",
+    "prof/Untitled Diagram.svg",
+    "prof/PROF.md",
     "Rules.md",
     "prof",
     "D.M. stuff/D.M. stuff.md",
