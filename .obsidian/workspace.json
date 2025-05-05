@@ -25,17 +25,14 @@
             "id": "5f0f378f8ba92c64",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "prof/Untitled.canvas",
-                "viewState": {
-                  "x": -110,
-                  "y": -105,
-                  "zoom": 0
-                }
+                "file": "prof/PROF.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "PROF"
             }
           }
         ],
@@ -222,15 +219,15 @@
   },
   "active": "5f0f378f8ba92c64",
   "lastOpenFiles": [
-    "prof/Untitled Diagram.svg",
+    "D.M. stuff/D.M. To-Do List.md",
+    "D.M. stuff/D.M. stuff.md",
     "prof/Untitled.canvas",
+    "prof/Untitled Diagram.svg",
     "prof/PROF.md",
     "Rules.md",
     "prof",
-    "D.M. stuff/D.M. stuff.md",
     "Player Resources/Map/Map_1.md",
     "D.M. stuff/Story/Main Story.md",
-    "D.M. stuff/D.M. To-Do List.md",
     "D.M. stuff/D.M. Diary.md",
     "Player Resources/Sketches/SK.1_(placeholder).canvas",
     "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.4_(placeholder).md",
