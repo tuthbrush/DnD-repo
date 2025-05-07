@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prof/PROF.md",
+                "file": "prof/server/laptop netserver.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROF"
+              "title": "laptop netserver"
             }
           }
         ]
@@ -207,10 +207,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6f54f57b783aec57",
+  "active": "f970f148ec6df419",
   "lastOpenFiles": [
-    "prof/Untitled",
-    "prof/Untitled.canvas",
+    "prof/server/PROF.md",
+    "prof/server/laptop netserver.md",
+    "prof/server",
+    "prof/server/Untitled.canvas",
     "D.M. stuff/File vault/Untitled Diagram.drawio.svg",
     "D.M. stuff/File vault/Untitled Diagram.drawio (1).svg",
     "/D.M. stuff/File vault/Untitled Diagram.drawio.svg",
@@ -221,7 +223,6 @@
     "/prof/PROF.md",
     "/prof",
     "/prof/Untitled.canvas",
-    "prof/PROF.md",
     "Untitled Diagram.drawio.svg",
     "Untitled Diagram.drawio (1).svg",
     "Untitled Diagram.drawio (1) 1.svg",
@@ -241,7 +242,6 @@
     "/D.M. stuff/D.M. To-Do List.md",
     "/D.M. stuff/D.M. Diary.md",
     "Player Resources/Calendar",
-    "/Player Resources/Calendar",
     "D.M. stuff/Story/Main Story.md",
     "D.M. stuff/Maps/world.md",
     "/D.M. stuff/Maps/world.md",
