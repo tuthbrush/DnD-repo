@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prof/server/laptop netserver.md",
+                "file": "prof/server/PROF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "laptop netserver"
+              "title": "PROF"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "f970f148ec6df419",
   "lastOpenFiles": [
-    "prof/server/PROF.md",
     "prof/server/laptop netserver.md",
+    "prof/server/PROF.md",
     "prof/server",
     "prof/server/Untitled.canvas",
     "D.M. stuff/File vault/Untitled Diagram.drawio.svg",
