@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "video.md",
-                "mode": "source",
+                "file": "Video.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "video"
+              "title": "Video"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6e0e589d4161b8bc",
@@ -199,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459.5
+    "width": 459.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,7 +221,7 @@
   "active": "5f0f378f8ba92c64",
   "lastOpenFiles": [
     "D.M. stuff/File vault/Untitled Diagram.drawio (1).svg",
-    "video.md",
+    "Video.md",
     "prof/server/PROF.md",
     "prof/server/Untitled.canvas",
     "prof/server/laptop netserver.md",
