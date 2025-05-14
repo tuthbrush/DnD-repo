@@ -152,3 +152,72 @@ Vuoi un'altra prospettiva? ,,.,, e creerò un nuovo personaggio (es. un medico, 
 
 **Elena Martini**:  
 "Fidatevi dei medici, ma ascoltatevi. Io ho chiesto una seconda opinione e ha cambiato tutto. E permettetevi di avere paura: non siete eroi, siete umani. Anche nei giorni bui, ricordatevi che le statistiche non scrivono il vostro destino."
+
+## Copione 4
+### **Intervista Famiglia Colombo**
+
+_(Padre, madre e figlio adolescente che hanno affrontato insieme il tumore della madre)_
+
+**Backstory**: La famiglia Colombo – Marco (padre, 45 anni, impiegato), Elena (madre, 42 anni, insegnante, sopravvissuta a un tumore al seno), e Davide (figlio, 16 anni) – ha vissuto due anni di cure, tra interventi, chemio e riabilitazione. Ora Elena è in remissione, ma il percorso ha cambiato per sempre le loro dinamiche.
+
+---
+
+### **Domande rivolte a tutta la famiglia:**
+
+**Intervistatore**: _"Come avete scoperto la malattia di Elena?"_
+
+**Marco (padre)**:  
+"Elena l’ha trovato da sola, sotto la doccia. Ma invece di dirmelo subito, ha aspettato una settimana, finché non l’ho sorpresa a piangere in garage. ‘Volevo essere sicura prima di spaventarvi’, mi ha detto. Ma io l’ho sentito subito che qualcosa non andava."
+
+**Elena (madre)**:  
+(lo guarda e sorride) "Sai com’è Marco, se gli dici ‘Ho un raffreddore’ lui ti porta già la benda per il collo. Volevo proteggerli entrambi, almeno finché non sapevo cosa fosse davvero."
+
+**Davide (figlio)**:  
+"E io che credevo fosse lo stress per gli esami di mamma... Poi un giorno sono tornato da scuola e li ho sentiti parlare al telefono con il dottore. Ho capito tutto dalla faccia di papà."
+
+---
+
+### **Domande individuali:**
+
+**A Marco**: _"Qual è stato il momento più difficile per te come marito e padre?"_
+
+**Marco**:  
+"Dividermi tra Davide e Elena. Lui aveva gli esami di terza media, lei era ricoverata. Una volta ho dovuto lasciarla sola in ospedale per andare a prendere Davide da una verifica. Mi sentivo un traditore, qualsiasi scelta facessi."
+
+**A Elena**: _"Cosa ti ha sorpreso del modo in cui tuo marito e tuo figlio hanno reagito?"_
+
+**Elena**:  
+"Davide, che a 14 anni sembrava non ascoltasse mai, ha imparato a fare la spesa e a stirare le sue magliette. Marco, che di solito evade i problemi lavorando, ha preso un congedo e ha tenuto un diario di ogni mio ciclo di chemio. Persino i miei valori del sangue li sapeva a memoria."
+
+**A Davide**: _"Com’è stato per te, da adolescente, affrontare tutto questo?"_
+
+**Davide**:  
+(scuote le spalle) "I miei compagni non capivano. Dicevano ‘Tanto tua mamma guarisce, no?’. Io non sapevo come rispondere. Poi un giorno ho scritto una canzone sul telefono e l’ho fatta sentire a mamma in ospedale. Lei ha pianto e allora ho capito che forse serviva a qualcosa."
+
+---
+
+### **Domande di gruppo:**
+
+**Intervistatore**: _"Com’è cambiato il vostro rapporto ora?"_
+
+**Marco**:  
+"Prima litigavamo per le cazzate – chi doveva svuotare la lavastoviglie, chi guidava. Ora se Elena è stanca, Davide gli prepara la tisana senza che glielo chieda. E io... beh, ho smesso di rimandare le cose. Abbiamo già prenotato quel viaggio in Grecia che rimandavamo da dieci anni."
+
+**Elena**:  
+(prendendo la mano di Davide) "Lui ora mi dice ‘Ti voglio bene’ senza che sia io a dirlo per prima. E Marco ha imparato ad abbracciare invece di fare discorsi."
+
+**Davide**:  
+(ridacchia) "Sì, papà è diventato molliccio. Però almeno non rompe più se lascio i calzini in giro."
+
+---
+
+**Intervistatore**: _"Un messaggio per altre famiglie nella vostra situazione?"_
+
+**Elena**:  
+"Permettetevi di essere imperfetti. Noi abbiamo urlato, pianto, a volte ci siamo odiati. Ma ogni sera, anche nei giorni peggiori, ci siamo seduti a tavola insieme. Anche se era solo per un biscotto e un bicchiere d’acqua."
+
+**Marco**:  
+"E non vergognatevi a chiedere aiuto. Io ho scoperto che il nostro meccanico faceva turni in ospedale come volontario e ci portava la pasta al forno. Le persone aiutano, se glielo permetti."
+
+**Davide**:  
+(guardando in camera) "E se siete figli... non fate gli eroi. Una volta ho pianto davanti a un videogioco e invece di dirmi ‘Non è niente’, papà mi ha stretto forte. Quello è stato il giorno in cui ho capito che potevo essere debole con loro."
