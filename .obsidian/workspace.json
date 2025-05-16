@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe04cdacd799aa58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prof/PROF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PROF"
-            }
-          },
-          {
             "id": "5f0f378f8ba92c64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Video.md",
+                "file": "prof/server/laptop netserver.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Video"
+              "title": "laptop netserver"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6e0e589d4161b8bc",
@@ -125,8 +109,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -135,8 +119,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -191,8 +175,18 @@
             "state": {
               "type": "custom-frames-obsidian-help",
               "state": {},
-              "icon": "lucide-info",
-              "title": "Obsidian help"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "351ea815db4e0f7f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           }
         ],
@@ -205,7 +199,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open Obsidian help": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -213,17 +206,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-custom-frames:Open Obsidian help": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "calendarium:Open Calendarium": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
   "active": "5f0f378f8ba92c64",
   "lastOpenFiles": [
-    "D.M. stuff/File vault/Untitled Diagram.drawio (1).svg",
-    "Video.md",
     "prof/server/PROF.md",
     "prof/server/Untitled.canvas",
+    "Rules.md",
+    "video.md",
+    "D.M. stuff/File vault/Untitled Diagram.drawio (1).svg",
+    "Video.md",
     "prof/server/laptop netserver.md",
     "prof/server",
     "prof",
@@ -235,7 +231,6 @@
     "D.M. stuff/D.M. stuff.md",
     "prof/Untitled.canvas",
     "prof/Untitled Diagram.svg",
-    "Rules.md",
     "Player Resources/Map/Map_1.md",
     "D.M. stuff/Story/Main Story.md",
     "D.M. stuff/D.M. Diary.md",
@@ -261,7 +256,6 @@
     "D.M. stuff/Obi Help/Untitled.md",
     "Player Resources/Quests/Q.1_(placeholder).md",
     "Player Resources/Bestiary.md",
-    "Player Resources/Untitled.md",
     "Pasted image 20250418223341.jpg"
   ]
 }
