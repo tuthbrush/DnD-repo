@@ -57,3 +57,4 @@ https://slyflourish.com/lazy_gm_resource_document.html
 https://www.youtube.com/@SlyFlourish
 
 https://www.dmingwithcharisma.com/2011/10/dd-stats-in-simple-language/
+https://docs.google.com/spreadsheets/d/1Gx3RxbMHsgeZkeZ3P9Teff7pXXZ3CogNgLTJmlPFExU/edit?pli=1&gid=0#gid=0
