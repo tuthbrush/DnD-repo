@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prof/PROF.md",
+                "file": "Player Resources/CH Creation/Equipment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROF"
+              "title": "Equipment"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules.md",
+                "file": "Player Resources/CH Creation/Races.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rules"
+              "title": "Races"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,8 +133,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -190,8 +189,18 @@
             "state": {
               "type": "custom-frames-obsidian-help",
               "state": {},
-              "icon": "lucide-info",
-              "title": "Obsidian help"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a4dc7431188c1c40",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           }
         ],
@@ -204,7 +213,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open Obsidian help": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -212,15 +220,39 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-custom-frames:Open Obsidian help": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c644884cbcd4aa87",
+  "active": "fe04cdacd799aa58",
   "lastOpenFiles": [
+    "Player Resources/CH Creation/Races.md",
+    "Player Resources/CH Creation/Backgrounds.md",
+    "Player Resources/CH Creation/Equipment.md",
+    "Player Resources/CH Creation/Classes/Classes.md",
+    "Player Resources/CH Creation/Classes/Barbarian.md",
+    "Player Resources/CH Creation/Classes/Sorcerer.md",
+    "Player Resources/CH Creation/Classes/Rogue.md",
+    "Player Resources/CH Creation/Classes/Ranger.md",
+    "Player Resources/CH Creation/Classes/Wizard.md",
+    "Player Resources/CH Creation/Classes/Paladin.md",
+    "Player Resources/CH Creation/Classes/Monk.md",
+    "Player Resources/CH Creation/Classes/Fighter.md",
+    "Player Resources/CH Creation/Classes/Druido.md",
+    "Player Resources/CH Creation/Classes/Chierico.md",
+    "Player Resources/CH Creation/Classes/Bardo.md",
+    "Player Resources/CH Creation/Classes/Warlock.md",
+    "D.M. stuff/D.M. Diary.md",
+    "Player Resources/CH Creation/Classes/Untitled.md",
+    "Player Resources/CH Creation/Classes",
+    "Player Resources/Diary.md",
+    "Player Resources/Rules.md",
+    "Player Resources/Bestiary.md",
+    "Player Resources/CH Creation",
+    "Player Resources/Dichiarazione di intenti.md",
     "Video.md",
-    "Rules.md",
     "D.M. stuff/File vault/Untitled Diagram.drawio (1).svg",
     "prof/server/PROF.md",
     "prof/server/Untitled.canvas",
@@ -231,36 +263,14 @@
     "Untitled Diagram.drawio (1) 1.svg",
     "D.M. stuff/File vault/Untitled Diagram.drawio.svg",
     "Untitled Diagram.drawio",
-    "D.M. stuff/D.M. To-Do List.md",
-    "D.M. stuff/D.M. stuff.md",
     "prof/Untitled.canvas",
     "prof/Untitled Diagram.svg",
-    "Player Resources/Map/Map_1.md",
-    "D.M. stuff/Story/Main Story.md",
-    "D.M. stuff/D.M. Diary.md",
     "Player Resources/Sketches/SK.1_(placeholder).canvas",
-    "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.4_(placeholder).md",
-    "D.M. stuff/D.M. Stuff.md",
-    "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.3_(placeholder).md",
-    "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.2_(placeholder).md",
-    "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.1_(placeholder).md",
-    "D.M. stuff/Characters 1/NPC/NPC_(placeholder).md",
-    "D.M. stuff/Characters 1/Enemies/E-NPC_(placeholder).md",
     "D.M. stuff/Characters 1/PCharacters 1",
     "D.M. stuff/Characters 1/NPC",
     "D.M. stuff/Characters 1/Enemies",
     "D.M. stuff/Characters 1",
-    "D.M. stuff/Maps/world.md",
     "D.M. stuff/Maps/Dwellings",
-    "D.M. stuff/Maps/Dungeons",
-    "D.M. stuff/Maps/Villages",
-    "D.M. stuff/Maps/Untitled.md",
-    "Player Resources/Diary.md",
-    "Player Resources/2025-04-18.md",
-    "D.M. stuff/Obi Help/Untitled.md",
-    "Player Resources/Quests/Q.1_(placeholder).md",
-    "Player Resources/Bestiary.md",
-    "Player Resources/Untitled.md",
     "Pasted image 20250418223341.jpg"
   ]
 }

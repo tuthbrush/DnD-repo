@@ -1,0 +1,67 @@
+la classi su dnd sono importanti (per me le piu importanti) dei fattori quando si fa un personaggio, influiscono su fattori come:
+
+- Comportamento
+- Istinto
+- *(optional)* Statistiche
+- Abilità
+- Competenze
+- Armatura
+- Armi
+- Strumenti
+- Dadi salvavita
+- Skillset
+- Via/Archetipo/Origine/Dominio
+
+Ogni Classe (o quasi) ha una subcategoria per la competenza che si ha (es. rouge thief, rogue assassin...) e sotto alla cartella Classes c'è ognuna delle subcategorie di ognuna delle classi, che sono:
+- ##### [[Barbarian]]
+  - Berserker
+  - Guerriero del Totem
+- ##### [[Bardo]]
+  - Collegio della Conoscenza
+  - Collegio del Valore
+- ##### [[Chierico]]
+  - Dominio della Conoscenza
+  - Dominio della Vita
+  - Dominio della Luce
+  - Dominio della Natura
+  - Dominio della Tempesta
+  - Dominio dell'Inganno
+  - Dominio della Guerra
+- ##### [[Druido]]
+  - Circolo del Terreno
+  - Circolo della Luna
+- ##### [[Fighter]]
+  - Archetipo del Campione
+  - Archetipo del Mastro di Battaglia
+  - Archetipo del Guerriero di Eldritch
+- ##### [[Monk]]
+  - Via della Mano Aperta
+  - Via dell'Ombra
+  - Via dei Quattro Elementi
+- ##### [[Paladin]]
+  - Giuramento alla Devozione
+  - Giuramento all'Antico
+  - Giuramento alla Vendetta
+- ##### [[Ranger]]
+  - Archetipo del Cacciatore
+  - Archetipo del Mastro delle Bestie
+- ##### [[Rogue]]
+  - Archetipo Rocambolesco del Ladro
+  - Archetipo Rocambolesco dell'Assassino
+  - Archetipo Rocambolesco dell'Arcano Imbroglione
+- ##### [[Sorcerer]]
+  - Origine della Stirpe Draconica
+  - Origine della Magia Selvaggia
+- ##### [[Warlock]]
+  - Patrono Ultraterreneo:"L'Arcifisso"
+  - Patrono Ultraterreneo:"Il Demone"
+  - Patrono Ultraterreneo:"Il Grande Vecchio"
+- ##### [[Wizard]]
+  - Scuola dell'Abiura
+  - Scuola della Congiura
+  - Scuola della Divinazione
+  - Scuola dell'Incantesimo
+  - Scuola dell'Evocazione
+  - Scuola dell'Illusione
+  - Scuola della Necromanzia
+  - Scuola della Trasmutazione
