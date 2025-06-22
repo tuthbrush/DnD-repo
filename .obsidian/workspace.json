@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prof/PROF.md",
+                "file": "Player Resources/CH Creation/Classes/Wizard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROF"
+              "title": "Wizard"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "D.M. stuff"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,7 +226,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "c644884cbcd4aa87",
+  "active": "fe04cdacd799aa58",
   "lastOpenFiles": [
     "D.M. stuff/BeginnerGuide5e.pdf",
     "D.M. stuff/Dungeons and Dragons Player's Handbook -- Wizards RPG Team; Cordell Bruce R, Schwalb Robert J, Wyatt -- Dungeons & Dragons 5e, 5, 2014 -- Wizards of -- 9780786965601 -- 4c8466c03023a8c2a13c478a39f5238f -- Anna’s Ar.pdf",
@@ -245,21 +244,9 @@
     "Untitled Diagram.drawio (1) 1.svg",
     "D.M. stuff/File vault/Untitled Diagram.drawio.svg",
     "Untitled Diagram.drawio",
-    "D.M. stuff/D.M. To-Do List.md",
-    "D.M. stuff/D.M. stuff.md",
     "prof/Untitled.canvas",
     "prof/Untitled Diagram.svg",
-    "Player Resources/Map/Map_1.md",
-    "D.M. stuff/Story/Main Story.md",
-    "D.M. stuff/D.M. Diary.md",
     "Player Resources/Sketches/SK.1_(placeholder).canvas",
-    "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.4_(placeholder).md",
-    "D.M. stuff/D.M. Stuff.md",
-    "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.3_(placeholder).md",
-    "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.2_(placeholder).md",
-    "D.M. stuff/Characters 1/PCharacters 1/D.M.CH.1_(placeholder).md",
-    "D.M. stuff/Characters 1/NPC/NPC_(placeholder).md",
-    "D.M. stuff/Characters 1/Enemies/E-NPC_(placeholder).md",
     "D.M. stuff/Characters 1/PCharacters 1",
     "D.M. stuff/Characters 1/NPC",
     "D.M. stuff/Characters 1/Enemies",
