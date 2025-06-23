@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "98c5dd2fbe9b821a",
+        "id": "2a91738e6df94114",
         "type": "tabs",
         "children": [
           {
-            "id": "fe04cdacd799aa58",
+            "id": "97dd776fe4a98e2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Resources/CH Creation/Classes/Wizard.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Wizard"
-            }
-          },
-          {
-            "id": "5f0f378f8ba92c64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D.M. stuff/D.M. stuff.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "D.M. stuff"
+              "title": "New tab"
             }
           }
         ]
@@ -54,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -220,45 +202,62 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-custom-frames:Open Obsidian help": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "fe04cdacd799aa58",
+  "active": "97dd776fe4a98e2e",
   "lastOpenFiles": [
+    "Player Resources/CH Creation/DnD_5e_Players_Handbook_BnW_OCR.pdf",
+    "Player Resources/CH Creation/BeginnerGuide5e.pdf",
+    "Player Resources/CH Creation/Backgrounds.md",
+    "Player Resources/CH Creation/Races/Races.md",
+    "Player Resources/CH Creation/Classes/Classes.md",
+    "Player Resources/Dichiarazione di intenti.md",
+    "Player Resources/Rules.md",
+    "Player Resources/Diary.md",
+    "Player Resources/Bestiary.md",
+    "Player Resources/Map/Map_1.md",
+    "Player Resources/Characters/NPC/NPC_(placeholder).md",
+    "Player Resources/Characters/Enemies/E-NPC_(placeholder).md",
+    "Player Resources/CH Creation/Equipment.md",
+    "Player Resources/CH Creation/Races/Dakins Guide to 5E Races.pdf",
+    "Player Resources/CH Creation/Classes/Dakins Guide to 5E Classes.pdf",
+    "Player Resources/CH Creation/Races",
+    "Player Resources/CH Creation/Classes",
+    "Player Resources/CH Creation/Dungeons and Dragons Player's Handbook -- Wizards RPG Team; Cordell Bruce R, Schwalb Robert J, Wyatt -- Dungeons & Dragons 5e, 5, 2014 -- Wizards of -- 9780786965601 -- 4c8466c03023a8c2a13c478a39f5238f -- Anna’s Ar 1.pdf",
+    "Player Resources/CH Creation/Dungeons and Dragons Player's Handbook -- Wizards RPG Team; Cordell Bruce R, Schwalb Robert J, Wyatt -- Dungeons & Dragons 5e, 5, 2014 -- Wizards of -- 9780786965601 -- 4c8466c03023a8c2a13c478a39f5238f -- Anna’s Ar.pdf",
     "D.M. stuff/BeginnerGuide5e.pdf",
-    "D.M. stuff/Dungeons and Dragons Player's Handbook -- Wizards RPG Team; Cordell Bruce R, Schwalb Robert J, Wyatt -- Dungeons & Dragons 5e, 5, 2014 -- Wizards of -- 9780786965601 -- 4c8466c03023a8c2a13c478a39f5238f -- Anna’s Ar.pdf",
     "D.M. stuff/Dakins Guide to 5E Races.pdf",
-    "D.M. stuff/Dakins Guide to 5E Classes.pdf",
+    "Player Resources/CH Creation/Classes/Chierico.md",
+    "Player Resources/CH Creation/Classes/Warlock.md",
+    "Player Resources/CH Creation/Classes/Wizard.md",
+    "Player Resources/CH Creation/html-to-markdown.md",
+    "Pasted image 20250623020222.png",
+    "Pasted image 20250623020219.png",
+    "Pasted image 20250623020125.png",
+    "Player Resources/CH Creation/Classes/Barbarian.md",
+    "Player Resources/CH Creation/Classes/Bardo.md",
+    "Player Resources/CH Creation/Classes/Druido.md",
     "Rules.md",
     "Video.md",
     "D.M. stuff/File vault/Untitled Diagram.drawio (1).svg",
     "prof/server/PROF.md",
     "prof/server/Untitled.canvas",
     "prof/server/laptop netserver.md",
-    "prof/server",
-    "prof",
     "prof/PROF.md",
     "Untitled Diagram.drawio (1) 1.svg",
     "D.M. stuff/File vault/Untitled Diagram.drawio.svg",
-    "Untitled Diagram.drawio",
     "prof/Untitled.canvas",
     "prof/Untitled Diagram.svg",
     "Player Resources/Sketches/SK.1_(placeholder).canvas",
-    "D.M. stuff/Characters 1/PCharacters 1",
-    "D.M. stuff/Characters 1/NPC",
-    "D.M. stuff/Characters 1/Enemies",
-    "D.M. stuff/Characters 1",
     "D.M. stuff/Maps/world.md",
     "D.M. stuff/Maps/Untitled.md",
-    "Player Resources/Diary.md",
-    "Player Resources/2025-04-18.md",
-    "D.M. stuff/Obi Help/Untitled.md",
-    "Player Resources/Quests/Q.1_(placeholder).md",
-    "Player Resources/Bestiary.md",
-    "Player Resources/Untitled.md",
     "Pasted image 20250418223341.jpg"
   ]
 }

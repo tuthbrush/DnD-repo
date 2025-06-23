@@ -2,7 +2,7 @@ la classi su dnd sono importanti (per me le piu importanti) dei fattori quando s
 
 - Comportamento
 - Istinto
-- *(optional)* Statistiche
+- *(opt)* Statistiche
 - Abilità
 - Competenze
 - Armatura
@@ -13,13 +13,13 @@ la classi su dnd sono importanti (per me le piu importanti) dei fattori quando s
 - Via/Archetipo/Origine/Dominio
 
 Ogni Classe (o quasi) ha una subcategoria per la competenza che si ha (es. rouge thief, rogue assassin...) e sotto alla cartella Classes c'è ognuna delle subcategorie di ognuna delle classi, che sono:
-- ##### [[Barbarian]]
+- ##### Barbarian [[DnD_5e_Players_Handbook_BnW_OCR.pdf#page=40&selection=0,0,0,13|(PHB)]] [[Dakins Guide to 5E Classes.pdf#page=3|(Simple)]]
   - Berserker
   - Guerriero del Totem
-- ##### [[Bardo]]
+- ##### Bard [[DnD_5e_Players_Handbook_BnW_OCR.pdf#page=45&selection=51,0,52,5|(PHB)]] [[Dakins Guide to 5E Classes.pdf#page=12|(Simple)]]
   - Collegio della Conoscenza
   - Collegio del Valore
-- ##### [[Chierico]]
+- ##### Cleric [[DnD_5e_Players_Handbook_BnW_OCR.pdf#page=50|(PHB)]] [[Dakins Guide to 5E Classes.pdf#page=22|(Simple)]]
   - Dominio della Conoscenza
   - Dominio della Vita
   - Dominio della Luce
@@ -27,36 +27,36 @@ Ogni Classe (o quasi) ha una subcategoria per la competenza che si ha (es. rouge
   - Dominio della Tempesta
   - Dominio dell'Inganno
   - Dominio della Guerra
-- ##### [[Druido]]
+- ##### Druid [[DnD_5e_Players_Handbook_BnW_OCR.pdf#page=58|(PHB)]] [[Dakins Guide to 5E Classes.pdf#page=35|(Simple)]]
   - Circolo del Terreno
   - Circolo della Luna
-- ##### [[Fighter]]
+- ##### Fighter [[DnD_5e_Players_Handbook_BnW_OCR.pdf#page=64|(PHB)]] [[Dakins Guide to 5E Classes.pdf#page=44|(Simple)]]
   - Archetipo del Campione
   - Archetipo del Mastro di Battaglia
   - Archetipo del Guerriero di Eldritch
-- ##### [[Monk]]
+- ##### Monk [[DnD_5e_Players_Handbook_BnW_OCR.pdf#page=70|(PHB)]] [[Dakins Guide to 5E Classes.pdf#page=62|(Simple)]]
   - Via della Mano Aperta
   - Via dell'Ombra
   - Via dei Quattro Elementi
-- ##### [[Paladin]]
+- ##### Paladin [[DnD_5e_Players_Handbook_BnW_OCR.pdf#page=76|(PHB)]] [[Dakins Guide to 5E Classes.pdf#page=74|(Simple)]]
   - Giuramento alla Devozione
   - Giuramento all'Antico
   - Giuramento alla Vendetta
-- ##### [[Ranger]]
+- ##### Ranger [[DnD_5e_Players_Handbook_BnW_OCR.pdf#page=83|(PHB)]] [[Dakins Guide to 5E Classes.pdf#page=84|(Simple)]]
   - Archetipo del Cacciatore
   - Archetipo del Mastro delle Bestie
-- ##### [[Rogue]]
+- ##### Rogue [[DnD_5e_Players_Handbook_BnW_OCR.pdf#page=83|(PHB)]] [[Dakins Guide to 5E Classes.pdf#page=101|(Simple)]]
   - Archetipo Rocambolesco del Ladro
   - Archetipo Rocambolesco dell'Assassino
   - Archetipo Rocambolesco dell'Arcano Imbroglione
-- ##### [[Sorcerer]]
+- ##### Sorcerer [[DnD_5e_Players_Handbook_BnW_OCR.pdf#page=93|(PHB)]] [[Dakins Guide to 5E Classes.pdf#page=109|(Simple)]]
   - Origine della Stirpe Draconica
   - Origine della Magia Selvaggia
-- ##### [[Warlock]]
+- ##### Warlock [[DnD_5e_Players_Handbook_BnW_OCR.pdf#page=99|(PHB)]] [[Dakins Guide to 5E Classes.pdf#page=122|(Simple)]]
   - Patrono Ultraterreneo:"L'Arcifisso"
   - Patrono Ultraterreneo:"Il Demone"
   - Patrono Ultraterreneo:"Il Grande Vecchio"
-- ##### [[Wizard]]
+- ##### Wizard [[DnD_5e_Players_Handbook_BnW_OCR.pdf#page=106|(PHB)]] [[Dakins Guide to 5E Classes.pdf#page=139|(Simple)]]
   - Scuola dell'Abiura
   - Scuola della Congiura
   - Scuola della Divinazione
