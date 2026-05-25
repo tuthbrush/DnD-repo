@@ -252,15 +252,15 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "ee1ff01b0f56c977",
   "lastOpenFiles": [
     "Drawing 2026-05-20 15.29.23.excalidraw.md",
-    "D.M. stuff/File vault/Untitled Diagram.drawio (1).svg",
     "Circular_Array_Rules.md",
+    "D.M. stuff/File vault/Untitled Diagram.drawio (1).svg",
     "D.M. stuff/File vault/Untitled Diagram.drawio.svg",
     "D.M. stuff/D.M. stuff.md",
     "Oneshot/the_wild_sheep_chase_v2.pdf",
