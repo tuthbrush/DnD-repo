@@ -23,14 +23,12 @@
             "id": "ee1ff01b0f56c977",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Circular_Array_Rules.md",
-                "mode": "source",
-                "source": false
+                "file": "D.M. stuff/File vault/Untitled Diagram.drawio.svg"
               },
-              "icon": "lucide-file",
-              "title": "Circular_Array_Rules"
+              "icon": "lucide-image",
+              "title": "Untitled Diagram.drawio"
             }
           }
         ],
@@ -258,8 +256,8 @@
   },
   "active": "ee1ff01b0f56c977",
   "lastOpenFiles": [
-    "Drawing 2026-05-20 15.29.23.excalidraw.md",
     "Circular_Array_Rules.md",
+    "Drawing 2026-05-20 15.29.23.excalidraw.md",
     "D.M. stuff/File vault/Untitled Diagram.drawio (1).svg",
     "D.M. stuff/File vault/Untitled Diagram.drawio.svg",
     "D.M. stuff/D.M. stuff.md",
